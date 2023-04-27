@@ -18,3 +18,6 @@ Ohjelmassa pystyy poistamaan lisättyjä asioita
 4 pistettä
 
 Ohjelmassa voidaan valita näytetäänkö asiat aika- vai aakkosjärjestyksessä
+
+
+KOODI LÖYTYY ZIP TIEDOSTOSTA!
